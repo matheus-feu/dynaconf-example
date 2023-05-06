@@ -1,0 +1,5 @@
+PROTOCOL='http'
+HOST='localhost'
+PORT=8080
+
+MSG= 'Olá pessoal, tudo bem? Aqui está um exemplo de mensagem para vocês.'
